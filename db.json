@@ -1,0 +1,80 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Axel",
+      "telefono": 102013313,
+      "email": "axel@hotmail.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Manuel",
+      "telefono": 138198313,
+      "email": "manuel@hotmail.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Mariano",
+      "empresa": "Codigo Con Axel",
+      "email": "marianito@hotmail.com",
+      "telefono": "3454151413",
+      "notas": "Mariano necesita informacion acerca de react node",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Roman",
+      "telefono": 319381983,
+      "email": "riquelme@hotmail.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@hotmail.com",
+      "empresa": "Codigo Con React Router Dom"
+    },
+    {
+      "nombre": "Transporte",
+      "empresa": "torre 3",
+      "email": "axel.m.clavero38@gmail.com",
+      "telefono": "ss",
+      "notas": "o",
+      "id": 6
+    },
+    {
+      "nombre": "Martin",
+      "empresa": "marcand",
+      "email": "marcand@hotmail.com",
+      "telefono": "3426764343",
+      "notas": "Hola necesito el servicio de ecommerce",
+      "id": 7
+    },
+    {
+      "nombre": "Transporte",
+      "empresa": "torre 3",
+      "email": "axel.m.clavero@gmail.com",
+      "telefono": "ss",
+      "notas": "necesito",
+      "id": 8
+    },
+    {
+      "nombre": "Rodrigo",
+      "empresa": "interlac",
+      "email": "interlac@hotmail.com",
+      "telefono": "3424643112",
+      "notas": "Rodrigo necesita informacion de node",
+      "id": 9
+    },
+    {
+      "nombre": "maxi",
+      "empresa": "maxo",
+      "email": "maxi@gmail.com",
+      "telefono": "343223542q",
+      "notas": "Maxi necesita servicio en su pagina web",
+      "id": 10
+    }
+  ]
+}
